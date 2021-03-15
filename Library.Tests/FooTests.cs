@@ -15,5 +15,11 @@ namespace Library.Tests
         {
             Foo.Bar();
         }
+
+        [Fact]
+        public void TestBar3()
+        {
+            Foo.Bar();
+        }
     }
 }
